@@ -1,4 +1,6 @@
-## ***```Implement Load Balancing on Compute Engine: Challenge Lab```***
+# Implement Load Balancing on Compute Engine: Challenge Lab GSP313
+
+## ***```Implement Load Balancing on Compute Engine: Challenge Lab GSP313```***
 
 ### Export all the values carefully
 
